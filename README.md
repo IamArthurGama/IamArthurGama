@@ -42,36 +42,6 @@ Tenho experiência com desenvolvimento **Mobile, Web e Back-end**, atuando desde
 
 ---
 
-## 💻 Sobre mim
-
-* 📱 Desenvolvimento de aplicações **Mobile com Flutter**
-* 🌐 Desenvolvimento de aplicações **Web**
-* ⚙️ Desenvolvimento de **APIs e Back-end**
-* 🔗 Integração entre sistemas e serviços
-* 🗄️ Desenvolvimento com **PostgreSQL**
-* 🧩 Desenvolvimento de aplicações utilizando **Sencha Ext JS**
-* 🚀 Desenvolvimento e manutenção de soluções utilizadas em ambiente profissional
-
----
-
-## 🐍 Minhas contribuições
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/IamArthurGama/IamArthurGama/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Gama-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](SEU_LINKEDIN)
-
----
-
-<div align="center">
-
-**Desenvolvendo soluções, aprendendo continuamente e transformando ideias em software.**
-
-</div>
